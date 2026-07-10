@@ -1,6 +1,6 @@
-# 👑 SALTANAT Fancy Font Generator (README)
+# 👑 SALTANAT Fancy Font Generator 
 
-::: {align="center"}
+
 # ✨ SALTANAT ✨
 
 ## Fancy Font Generator
